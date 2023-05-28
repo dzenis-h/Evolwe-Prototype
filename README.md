@@ -22,7 +22,7 @@ Contributions are always welcome! If you would like to contribute to this projec
 4. Submit a pull request.
 
 ## Screenshot 📸
-![screenshot](https://drive.google.com/file/d/1S-JSG-crSxveQHv_fWKSfONA5NDamQOS/export=view)
+![screenshot](https://drive.google.com/uc?export=view&id=1S-JSG-crSxveQHv_fWKSfONA5NDamQOS)
 
 ## License 📄
 This project is licensed under the MIT License. See the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for more details.
