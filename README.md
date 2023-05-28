@@ -24,6 +24,10 @@ Contributions are always welcome! If you would like to contribute to this projec
 ## Screenshot 📸
 ![screenshot](https://drive.google.com/uc?export=view&id=1S-JSG-crSxveQHv_fWKSfONA5NDamQOS)
 
+## Deployed 🚀
+
+The deployed version of this project can be found at [Evolwe-Prototype](https://evolwe-landing-page.web.app).
+
 ## License 📄
 This project is licensed under the MIT License. See the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for more details.
 
