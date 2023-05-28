@@ -22,8 +22,7 @@ Contributions are always welcome! If you would like to contribute to this projec
 4. Submit a pull request.
 
 ## Screenshot 📸
-<img src="![screenshot](https://drive.google.com/uc?export=view&id=1TdIrd1oBwHbfqY47WwWa7Er4a5-UPMJG)
-" alt="Evolwe-Prototype screenshot" width="100%" height="600">
+![screenshot](https://drive.google.com/uc?export=view&id=1TdIrd1oBwHbfqY47WwWa7Er4a5-UPMJG)
 
 ## License 📄
 This project is licensed under the MIT License. See the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for more details.
